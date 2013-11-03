@@ -1,0 +1,33 @@
+not git introduction repo
+
+
+look deep into git
+
+
+1.workflow
+  branch, merge, cherry-pick, rebase, pull, push, remote
+2.status
+3.diff
+4.commit
+5.how-tos in git code
+
+
+refs:
+gittutorial(7), gittutorial-2(7), Everyday Git[1], gitcvs-migration(7),
+gitglossary(7), gitcore-tutorial(7), gitcli(7), The Git User’s
+Manual[2], gitworkflows(7)
+
+1. Everyday Git
+   file:///usr/share/doc/git-doc/everyday.html
+
+2. Git User’s Manual
+   file:///usr/share/doc/git-doc/user-manual.html
+
+3. git concepts chapter of the user-manual
+   file:///usr/share/doc/git-doc/user-manual.html#git-concepts
+
+4. howto
+   file:///usr/share/doc/git-doc/howto-index.html
+
+5. GIT API documentation
+
